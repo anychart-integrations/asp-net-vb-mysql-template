@@ -4,6 +4,7 @@ ASP.NET VB.NET basic template
 
 This example shows how to use Anychart library with the Visual Basic .NET programming language using ASP.NET and MySQL database.
 
+## Running
 This example uses .NET framework 4.6.1, ASP.NET 4.0.30319, ASP.NET MVC 5.2, Visual Studio 2015 Community, MySQL 5.6 and MySQL Connector/NET 6.9.9.0 - ADO.NET driver for MySQL.
 To check your installations, please, use Windows Control Panel -> Programs and features.
 If you miss some installations, please, visit:<br />
